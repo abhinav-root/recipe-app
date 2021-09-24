@@ -33,7 +33,6 @@ const RecipeContainer = () => {
           </Row>
         </Container>
       ) : (
-        <h3 className="text-center text-danger">Sorry, can't find anything</h3>
       )}
     </Container>
   );
